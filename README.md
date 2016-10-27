@@ -1,5 +1,4 @@
 # RogueLike
-===========
 
 Roguelike sencillo escrito en c++. 
 
