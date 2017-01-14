@@ -1,3 +1,3 @@
 all:
 	cd src/; make
-	mv Rogue Rogue
+	mv src/Rogue Rogue
